@@ -1,0 +1,2 @@
+# Capturas_imagenes
+imagenes
